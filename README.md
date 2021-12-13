@@ -13,3 +13,6 @@ This is the repository for the Python Coursework named: 16321-Cwk-S-Python Cours
  - \<Return Key> : This is the boss key(You don't want your boss to see you playing video game during work)
  - \<Esc> : Stop the game
    
+# Game Features
+
+ - LeaderBoard : Where you can see how you are ranked amoung players in the local machine :grinning:
