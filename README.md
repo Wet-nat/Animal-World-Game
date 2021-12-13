@@ -1,6 +1,6 @@
-# 16321_Python_Coursework
+## Animal World Game
 
-This is the repository for the Python Coursework named: 16321-Cwk-S-Python Coursework
+This is an original game created by Wet-nat
 
 # How to Play?
 
