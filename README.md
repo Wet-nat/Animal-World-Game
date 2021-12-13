@@ -29,3 +29,5 @@ This is an original game created by Wet-nat
   - Where you can see how you are ranked amoung players in the local machine :grinning:
  ## Save and Load : 
   - You can save the game and make youself a cup of tea or even go to bed, loading game will pick up the progress where you left last time
+
+# Enjoy Your Animal Workd Advanture!!!
