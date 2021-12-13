@@ -18,7 +18,7 @@ This is an original game created by Wet-nat
  ### Elephant
   Don't get close to it, it will **KILL YOU!!!**
  ### Monkey
-  The naughty monkey can push you aside
+  The naughty monkey can push you aside  **Don't touch the baseline, you will be DEAD!!!**
  ### Rabbit
   Eat it and it can slows your speed down *You will not stop*
  ### Penguin
