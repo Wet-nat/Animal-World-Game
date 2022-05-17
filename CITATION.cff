@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: Animal_World_Game
+message: Please cite this when using the code
+type: software
+authors:
+  - given-names: Ente
+    family-names: Wang
+date-released: 2021-12-13
