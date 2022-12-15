@@ -1,3 +1,7 @@
+#Update
+
+It cannot run on MacOS system since PhotoImage in TKinter has some problems in MacOS
+
 # Animal World Game
 
 This is an original game created by Wet-nat
